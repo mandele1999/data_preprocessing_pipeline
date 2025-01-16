@@ -12,3 +12,4 @@ The pipeline ensures consistency, reproducibility, and efficiency throughout the
 I will build a data Preprocessing pipeline using Python based on the fundamental functions every pipeline should perform while preprocessing any dataset.
 
 Data and case study used for this task are from [Statso](https://statso.io/data-preprocessing-case-study/)
+Credits: [Aman Kharwal](https://amankharwal.medium.com/)
