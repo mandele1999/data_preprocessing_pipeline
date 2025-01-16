@@ -10,4 +10,5 @@ The pipeline is composed of interconnected steps, each responsible for a specifi
 The pipeline ensures consistency, reproducibility, and efficiency throughout the preprocessing process by adhering to a predefined sequence of operations. The steps above represent fundamental functions that every pipeline should perform when preparing any dataset for analysis or modeling.
 
 I will build a data Preprocessing pipeline using Python based on the fundamental functions every pipeline should perform while preprocessing any dataset.
+
 Data and case study used for this task are from [Statso](https://statso.io/data-preprocessing-case-study/)
